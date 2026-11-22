@@ -9,7 +9,7 @@
   <img alt="Base model" src="https://img.shields.io/badge/base_model-Qwen2.5--1.5B--Instruct-1f6feb">
   <img alt="Method" src="https://img.shields.io/badge/method-RAFT_%2B_QLoRA-eb6834">
   <img alt="Dataset" src="https://img.shields.io/badge/dataset-Doc2Dial-1baf7a">
-  <img alt="Hardware" src="https://img.shields.io/badge/hardware-1x_Tesla_T4_16GB-6e7681">
+  <img alt="Hardware" src="https://img.shields.io/badge/hardware-1x_Tesla_T4_15GB-6e7681">
   <img alt="License" src="https://img.shields.io/badge/license-Apache--2.0-lightgrey">
 </p>
 
