@@ -1,30 +1,3 @@
----
-language:
-- en
-license: apache-2.0
-base_model: Qwen/Qwen2.5-1.5B-Instruct
-datasets:
-- IBM/doc2dial
-library_name: transformers
-pipeline_tag: text-generation
-tags:
-- raft
-- retrieval-augmented-fine-tuning
-- rag
-- retrieval-augmented-generation
-- customer-support
-- document-grounded-dialogue
-- doc2dial
-- qwen2.5
-- qlora
-- peft
-- lora
-- small-language-model
-- vllm
-- single-gpu
-- tesla-t4
----
-
 <h1 align="center">RAFT vs RAG on a Single T4</h1>
 
 <p align="center">
